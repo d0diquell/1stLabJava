@@ -1,0 +1,2 @@
+# 1stLabJava
+TailorSeriesCalculator
